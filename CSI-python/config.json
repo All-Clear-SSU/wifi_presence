@@ -1,0 +1,6 @@
+{
+  "wifi_ssid": "YourWiFiSSID",
+  "wifi_password": "YourWiFiPassword",
+  "publish_topic": "ALLCLEAR/Your Device Location",
+  "wifi_mac": "AA:BB:CC:DD:EE:FF"
+}
